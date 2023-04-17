@@ -13,3 +13,4 @@ Future improvements that can be made:
 - tests for validating and verifying images shown
 - recycler view can be styled a bit more
 - add DiffUtil for recyclerview
+- error handling: show user error message when fetching dogs
